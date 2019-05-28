@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "newcalcl", "newcalcl\newcalcl.csproj", "{0BA68FB3-9C3F-4B0D-9F26-C541558BF7D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BA68FB3-9C3F-4B0D-9F26-C541558BF7D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BA68FB3-9C3F-4B0D-9F26-C541558BF7D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BA68FB3-9C3F-4B0D-9F26-C541558BF7D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BA68FB3-9C3F-4B0D-9F26-C541558BF7D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6CB5D39-AA3F-4777-8C1E-61AC26A9D351}
+	EndGlobalSection
+EndGlobal
